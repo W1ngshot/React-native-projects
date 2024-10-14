@@ -1,0 +1,1 @@
+![Иллюстрация к проекту](https://github.com/W1ngshot/React-native-projects/raw/hw-2/homework2/image.png)
