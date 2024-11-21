@@ -1,0 +1,1 @@
+![Post list](https://github.com/W1ngshot/React-native-projects/raw/hw-5/homework5/images/post.png)
