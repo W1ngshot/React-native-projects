@@ -1,0 +1,5 @@
+![Home screen](https://github.com/W1ngshot/React-native-projects/raw/hw-3/homework3/images/home.jpg)
+![About screen](https://github.com/W1ngshot/React-native-projects/raw/hw-3/homework3/images/about.jpg)
+![News screen](https://github.com/W1ngshot/React-native-projects/raw/hw-3/homework3/images/news.jpg)
+![Chat screen](https://github.com/W1ngshot/React-native-projects/raw/hw-3/homework3/images/chat.jpg)
+![Settings screen](https://github.com/W1ngshot/React-native-projects/raw/hw-3/homework3/images/settings.jpg)
