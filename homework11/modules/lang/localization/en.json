@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "title": "Chose theme",
+    "light": "Light",
+    "dark": "Dark",
+    "contrast": "Contrast"
+  },
+  "block": {
+    "title": "Block and text"
+  }
+}
